@@ -74,7 +74,3 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=ASH2090&show_icons=true&count_private=true&hide_border=true" alt="Ash's GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASH2090&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ASH2090&hide_border=true" alt="GitHub streak" />
-</p>
